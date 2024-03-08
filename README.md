@@ -1,16 +1,4 @@
-# brokoli
+![image](https://github.com/RevanArturito/MLAB-WEEK-6/assets/152382596/930419b1-8b63-4a34-ae7c-6ef05f4f4c28)
 
-A new Flutter project.
+![image](https://github.com/RevanArturito/MLAB-WEEK-6/assets/152382596/31a3fdf5-c99c-4d3f-925d-1bc73b9aad59)
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
